@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget id = "com.redcoats.virtualvisitorbeta" version="1.1.1" android-versionCode="39" xmlns = "http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" >
-<name>Direct Visitor Beta</name>
-<description>Direct Visitor Beta</description>
+<name>Direct Guest Beta</name>
+<description>Direct Guest Beta</description>
 <author>redcoats</author>
 <content src="index.html"/>
 <preference name="phonegap-version" value="cli-9.0.0" /> 
